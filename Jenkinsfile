@@ -14,6 +14,7 @@ pipeline {
         IMAGE_NAME = 'ntquan87/22127294_devops'
     }
 
+    //hello
 
     stages {
         stage('Print Branch Name') {
